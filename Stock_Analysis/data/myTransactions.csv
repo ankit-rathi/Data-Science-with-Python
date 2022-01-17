@@ -1,0 +1,102 @@
+name,id,type,quantity,date,price
+HCL Technologies Ltd.,hcltech,stock,10,17-Jan-22,1254.85
+National Aluminium Company…,nationalum,stock,30,17-Jan-22,109.45
+Precision Wires India Ltd.,precwire,stock,11,17-Jan-22,91.1
+MindTree Ltd.,mindtree,stock,2,14-Jan-22,4523.5
+3i Infotech Ltd.,3iinfoltd,stock,44,13-Jan-22,88.4
+Federal Bank Ltd.,federalbnk,stock,50,13-Jan-22,99.9
+Kellton Tech Solutions Ltd.,kelltontec,stock,35,12-Jan-22,87.45
+Motilal Oswal Financial Se…,motilalofs,stock,3,12-Jan-22,937.28
+Hero MotoCorp Ltd.,heromotoco,stock,3,11-Jan-22,2578.5
+Indian Energy Exchange Ltd.,iex,stock,20,11-Jan-22,261.3
+IndusInd Bank Ltd.,indusindbk,stock,10,11-Jan-22,920.6
+Steel Authority of India (...,sail,stock,45,11-Jan-22,105.95
+Tata Consumer Products Ltd.,tataconsum,stock,6,11-Jan-22,733.4
+Hero MotoCorp Ltd.,heromotoco,stock,1,10-Jan-22,2582
+3i Infotech Ltd.,3iinfoltd,stock,11,6-Jan-22,90.1
+HCL Technologies Ltd.,hcltech,stock,3,6-Jan-22,1283.55
+Infosys Ltd.,infy,stock,2,6-Jan-22,1803.15
+Kellton Tech Solutions Ltd.,kelltontec,stock,15,6-Jan-22,69.85
+MindTree Ltd.,mindtree,stock,2,6-Jan-22,4587.55
+Divis Labs,divislab,stock,2,5-Jan-22,4551.2
+Infosys Ltd.,infy,stock,7,5-Jan-22,1850.4
+MindTree Ltd.,mindtree,stock,2,5-Jan-22,4679.1
+Federal Bank Ltd.,federalbnk,stock,25,4-Jan-22,87.9
+HDFC Bank Ltd.,hdfcbank,stock,7,4-Jan-22,1522.45
+Hindustan Unilever Ltd.,hindunilvr,stock,5,4-Jan-22,2400.85
+Indiabulls Real Estate Ltd.,ibrealest,stock,27,4-Jan-22,160.8
+IndusInd Bank Ltd.,indusindbk,stock,5,4-Jan-22,910.3
+Mahindra Holidays & Resort...,mhril,stock,20,4-Jan-22,190
+Reliance Industries Ltd.,reliance,stock,5,4-Jan-22,2436.55
+Tata Steel Ltd.,tatasteel,stock,2,4-Jan-22,1151
+Axis Growth Opportunities Fund - Dir - G,145110,mf,1367.92,24-Dec-21,21.93
+Axis Small Cap Fund - Dir - G,125354,mf,449.69,24-Dec-21,66.71
+HCL Technologies Ltd.,hcltech,stock,8,24-Dec-21,1253.7
+Infosys Ltd.,infy,stock,5,24-Dec-21,1863.4
+Tata Digital India Fund - Dir - G,135800,mf,681.37,24-Dec-21,44.03
+Axis Growth Opportunities Fund - Dir - G,145110,mf,928.07,20-Dec-21,21.55
+Axis Small Cap Fund - Dir - G,125354,mf,310.85,20-Dec-21,64.34
+Bajaj Finance Ltd.,bajfinance,stock,1,20-Dec-21,6608
+HDFC Bank Ltd.,hdfcbank,stock,4,20-Dec-21,1424.35
+Nippon India ETF Nifty BeES,niftybees,stock,60,20-Dec-21,179.25
+Reliance Industries Ltd.,reliance,stock,3,20-Dec-21,2269.6
+Tata Digital India Fund - Dir - G,135800,mf,476.13,20-Dec-21,42.01
+Tips Industries Ltd.,tipsindltd,stock,4,20-Dec-21,1508.95
+Zee Entertainment Enterpri...,zeel,stock,15,20-Dec-21,331.15
+Nippon India ETF Nifty BeES,niftybees,stock,25,17-Dec-21,185.39
+Nippon India ETF Nifty BeES,niftybees,stock,30,17-Dec-21,184.17
+Nippon India ETF Nifty BeES,niftybees,stock,60,17-Dec-21,183.97
+Nippon India ETF Nifty BeES,niftybees,stock,60,17-Dec-21,183.77
+Tata Motors Ltd.,tatamotors,stock,10,17-Dec-21,472.65
+Titan Company Ltd.,titan,stock,2,17-Dec-21,2275.7
+Parag Parikh Long Term Equity Fund - Dir - G,122639,mf,725.72,13-Dec-21,55.12
+Suzlon Energy Ltd.,suzlon,stock,350,10-Dec-21,7.85
+Havells India Ltd.,havells,stock,4,9-Dec-21,1390.15
+Parag Parikh Long Term Equity Fund - Dir - G,122639,mf,182.52,9-Dec-21,54.79
+Titan Company Ltd.,titan,stock,2,9-Dec-21,2359.3
+HDFC Bank Ltd.,hdfcbank,stock,6,30-Nov-21,1504.45
+Reliance Industries Ltd.,reliance,stock,4,30-Nov-21,2451.6
+Bharti Airtel Ltd.,bhartiartl,stock,2,24-Nov-21,765.7
+Bajaj Finance Ltd.,bajfinance,stock,1,22-Nov-21,7045.45
+Info Edge (India) Ltd.,naukri,stock,1,22-Nov-21,6070
+Titan Company Ltd.,titan,stock,2,22-Nov-21,2390.95
+Paras Defence and Space Te...,paras,stock,7,17-Nov-21,758.2
+Alkyl Amines Chemicals Ltd.,alkylamine,stock,1,16-Nov-21,3430.15
+Axis Bank Ltd.,axisbank,stock,15,16-Nov-21,730.05
+Indiabulls Real Estate Ltd.,ibrealest,stock,27,16-Nov-21,185.85
+Steel Authority of India (...,sail,stock,45,16-Nov-21,115.15
+National Aluminium Company...,nationalum,stock,30,15-Nov-21,99.8
+Bharti Airtel Ltd.,bhartiartl,stock,3,9-Nov-21,713.2
+Federal Bank Ltd.,federalbnk,stock,25,9-Nov-21,102.05
+HDFC Life Insurance Compan...,hdfclife,stock,3,9-Nov-21,706.45
+ICICI Bank Ltd.,icicibank,stock,3,9-Nov-21,785.35
+IndusInd Bank Ltd.,indusindbk,stock,5,9-Nov-21,1068.25
+Zee Entertainment Enterpri...,zeel,stock,7,9-Nov-21,324.6
+Havells India Ltd.,havells,stock,2,5-Nov-21,1392.95
+Tata Consumer Products Ltd.,tataconsum,stock,3,4-Nov-21,810.5
+HDFC Bank Ltd.,hdfcbank,stock,6,1-Nov-21,1600.35
+Hindustan Unilever Ltd.,hindunilvr,stock,4,1-Nov-21,2372.85
+Indian Railway Catering & ...,irctc,stock,10,1-Nov-21,857.2
+Tata Consultancy Services ...,tcs,stock,3,1-Nov-21,3476.4
+Asian Paints Ltd.,asianpaint,stock,2,26-Oct-21,2920
+HDFC Bank Ltd.,hdfcbank,stock,4,26-Oct-21,1669.7
+Hindustan Unilever Ltd.,hindunilvr,stock,4,26-Oct-21,2427.3
+Tata Consultancy Services ...,tcs,stock,2,26-Oct-21,3516.7
+Asian Paints Ltd.,asianpaint,stock,1,21-Oct-21,3005
+Berger Paints (India) Ltd.,bergepaint,stock,1,21-Oct-21,750.8
+Havells India Ltd.,havells,stock,2,21-Oct-21,1288.3
+Avenue Supermarts Ltd.,dmart,stock,1,20-Oct-21,4575
+Canara Bank,canbk,stock,15,20-Oct-21,192.3
+HDFC Bank Ltd.,hdfcbank,stock,2,20-Oct-21,1688.85
+Tata Power Company Ltd.,tatapower,stock,5,19-Oct-21,246.95
+Tata Power Company Ltd.,tatapower,stock,5,19-Oct-21,231.6
+Infosys Ltd.,infy,stock,2,12-Oct-21,1671.65
+Motilal Oswal Financial Se...,motilalofs,stock,2,12-Oct-21,915.53
+Reliance Industries Ltd.,reliance,stock,4,12-Oct-21,2667
+Avenue Supermarts Ltd.,dmart,stock,1,11-Oct-21,4590
+Tata Motors Ltd.,tatamotors,stock,10,11-Oct-21,416.25
+Tata Motors Ltd.,tatamotors,stock,6,8-Oct-21,384.15
+Tata Consultancy Services ...,tcs,stock,1,6-Oct-21,3834.6
+Asian Paints Ltd.,asianpaint,stock,1,4-Oct-21,3202.65
+Mahindra Holidays & Resort...,mhril,stock,10,4-Oct-21,244.2
+Tata Steel Ltd.,tatasteel,stock,2,4-Oct-21,1293.7
